@@ -2,7 +2,7 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
 
-fork by @kun1gund3
+ @kun1gund3
 
 
 
