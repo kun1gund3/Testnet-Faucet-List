@@ -2,7 +2,7 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
 
-
+fork by @kun1gund3
 
 
 
@@ -66,7 +66,8 @@ Go to any Nodesettings and select Base Mainnet or Ethereum Mainnet. The same app
 Sepolia Tesnet CDP
 https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
 
-
+For Building on Base
+https://docs.cdp.coinbase.com/get-started/quickstart 
 
 ## MultiFaucet
 
