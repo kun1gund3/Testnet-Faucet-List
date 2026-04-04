@@ -4,11 +4,14 @@
 
 fork from [@arddluma](https://github.com/arddluma/awesome-list-testnet-faucets/pull/82#issuecomment-1295746505)
 
-Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc | EVM and Other Blockchain
+@kun1gund337
+
+Testnet Faucets for: Ethereum, Base, Ropsten, Goerli, Kovan, Polygon, FantomTest, Sokol, Aurora, BSC, Algo, Tezos, Bitcoin etc. | EVM and Other Blockchains.
 
 
 ## Networks
 
+- [Bitcoin](#bitcoin)
 - [Etherspot](#etherspot)
 - [MultiFaucet](#multifaucet)
 - [Ethereum](#ethereum)
@@ -38,6 +41,15 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Blast](#blast)
 - [BeraChain](#berachain)
 - [Plasma](#plasma)
+
+
+
+### Bitcoin Testnet
+
+Bitcoin Testnet Faucet
+
+(https://faucet-list.com/testnet-faucets/bitcoin)
+
 
 ## Etherspot
 
