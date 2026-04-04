@@ -59,13 +59,15 @@ Bitcoin Testnet Faucet
 
 Checkout [here](https://twitter.com/kun1gund337)
 
-Sepolia CDP
-https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
-
-Developer CDP
+Developer Mainnet CDP
 https://api.developer.coinbase.com/rpc/v1/base/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
 
 Go to any Nodesettings and select Base Mainnet or Ethereum Mainnet. The same applies to Sepolia. Both nodes run locally on the Base network and are publicly usable. 
+
+Sepolia Tesnet CDP
+https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
+
+
 
 ## MultiFaucet
 
