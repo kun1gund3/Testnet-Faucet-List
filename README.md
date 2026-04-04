@@ -53,10 +53,10 @@ Bitcoin Testnet Faucet
 
 ## Etherspot
 
-### Etherspot testnet PoA
+### Coinbase Developer CPD
 
-Etherspot is a multi-chain non-custodial Smart Wallet platform that allows you to access the best features (batched transactions, NFTs, ENS, P2P) of the Ethereum blockchain (and EVM compatible chains such as Polygon, Binance Smart Chain, xDai) quickly and with minimal effort and cost.
-Checkout [here](https://bit.ly/3oyavge)
+
+Checkout [here](https://twitter.com/kun1gund337)
 
 https://try.etherspot.dev/#TopUpAccount
 
@@ -92,13 +92,7 @@ https://faucetlink.to/goerli
 
 https://faucet.quicknode.com/ethereum/kovan
 
-https://app.mycrypto.com/faucet
-
 https://faucets.chain.link/
-
-https://gitter.im/kovan-testnet/faucet
-
-https://fauceth.komputing.org/
 
 ### Rinkeby
 
@@ -106,21 +100,9 @@ https://faucet.quicknode.com/ethereum/rinkeby
 
 https://rinkebyfaucet.com/
 
-https://app.mycrypto.com/faucet
 
-https://faucet.metamask.io/
-
-https://www.rinkedry.xyz/
-
-https://fauceth.komputing.org/
 
 ### Sepolia
-
-https://faucet.sepolia.dev/
-
-https://fauceth.komputing.org/
-
-https://sepoliafaucet.net/
 
 https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
@@ -130,8 +112,6 @@ https://bwarelabs.com/faucets/ethereum-holesky
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
-
-https://kilnfaucet.com/
 
 ## BSC
 
@@ -145,26 +125,16 @@ https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
 
 ### Mainnet
 
-https://www.gimlu.com/faucet
+https://faucet.polygon.technology/
 
-https://matic.supply/
 
 ### Mumbai
 
 https://faucet.quicknode.com/polygon/mumbai
 
-https://mumbaifaucet.com/
-
-https://faucet.polygon.technology/
-
-https://testmatic.vercel.app/
-
-https://faucets.chain.link/mumbai
-
 https://faucet.dsolutions.mn/
 
 ### Polygon Amoy
-https://faucet.true-wallet.io/
 
 https://faucet.polygon.technology/
 
@@ -172,8 +142,6 @@ https://faucet.polygon.technology/
 ## xDai Gnosis
 
 ### Sokol
-
-https://faucet.poa.network/
 
 ## Fantom
 
@@ -226,7 +194,7 @@ https://bank.betanet.algodev.network/
 
 ### Cardano DevNet/Testnet
 
-https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
+https://testnets.cardano.org/cardano-testnets/tools/faucet
 
 ## Near
 
@@ -250,7 +218,6 @@ https://fauceth.komputing.org/
 
 ### Harmony DevNet
 
-http://dev.faucet.easynode.one/
 
 ### Harmony TesNet
 
@@ -275,7 +242,6 @@ https://discord.etherspot.io (#faucet channel) - drops 1 DEV
 
 ### Avalanche Fuji (C-Chain)
 
-https://faucet.paradigm.xyz/
 https://faucet.avax.network/
 
 ## Energy Web
@@ -285,19 +251,16 @@ https://faucet.avax.network/
 https://volta-faucet.energyweb.org/
 
 ## StarkNet
-https://faucet.goerli.starknet.io
+
 
 ## Bitcoin
 https://faucet-list.com/testnet-faucets/bitcoin
 
 ## edeXa
-https://faucet.edexa.com/
+
 
 ## tezos
-https://faucet.ghostnet.teztnets.com/
-https://faucet.oxfordnet.teztnets.com/
-https://faucet.predalnet.teztnets.com/
-[Fresh development](https://faucet.weeklynet-2024-03-27.teztnets.com)
+
 
 ## Zksync
 https://portal.zksync.io/
@@ -307,12 +270,13 @@ https://faucet.liberty10.shardeum.org/
 
 ## Blast
 https://faucet.quicknode.com/blast/sepolia
+
 https://owlto.finance/ {Bridge from sepolia}
 
 ## BeraChain
 https://artio.faucet.berachain.com/
 
 ## Plasma
-https://www.gas.zip/faucet/plasma
+https://www.gas.zip/
 
 
