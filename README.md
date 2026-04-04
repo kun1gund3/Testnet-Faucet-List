@@ -216,10 +216,6 @@ https://jelilat.github.io/near-faucet/
 
 https://faucet.quicknode.com/arbitrum/rinkeby
 
-https://faucet.paradigm.xyz/
-
-https://fauceth.komputing.org/
-
 ## Harmony
 
 ### Harmony DevNet
