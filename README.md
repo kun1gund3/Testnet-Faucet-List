@@ -1,11 +1,11 @@
-# awesome-list-testnet-faucets
+# Faucetlist-Testnet-Faucets
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
 
 fork from [@arddluma]
 
 
-@kun1gund337
+sort from @kun1gund337
 
 Testnet Faucets for: Ethereum, Base, Goerli, Polygon, FantomTest, Aurora, BSC, Algo, Tezos, Bitcoin etc. | EVM and other Blockchains.
 
@@ -59,8 +59,11 @@ Bitcoin Testnet Faucet
 
 Checkout [here](https://twitter.com/kun1gund337)
 
+Sepolia CDP
 https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
 
+Developer CDP
+https://api.developer.coinbase.com/rpc/v1/base/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
 
 
 ## MultiFaucet
