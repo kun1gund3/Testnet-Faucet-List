@@ -64,24 +64,20 @@ Faucet for #goerli and #moonbasealpha --> (#faucet channel)
 https://discord.etherspot.io
 
 ## MultiFaucet
-Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
 
-https://faucet.paradigm.xyz/
+https://getblock.io/faucet/
+
+https://faucets.chain.link/
+
 
 ## Ethereum
+
+https://getblock.io/faucet/
+
+https://www.allthatnode.com/faucet/ethereum.dsrv
+
+
 ### Ropsten
-
-https://faucet.ropsten.be/
-
-https://app.mycrypto.com/faucet
-
-https://testnet.help/en/ethfaucet/ropsten
-
-https://faucet.egorfine.com/
-
-https://faucet.metamask.io/
-
-https://fauceth.komputing.org/
 
 ### Goerli
 https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
@@ -89,22 +85,6 @@ https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
 https://faucet.quicknode.com/ethereum/goerli
 
 https://goerlifaucet.com/
-
-https://faucet.goerli.mudit.blog/
-
-https://goerli-faucet.slock.it/
-
-https://faucet.matic.network/
-
-https://app.mycrypto.com/faucet
-
-https://faucet.softbinator.com/
-
-https://faucets.chain.link/
-
-https://bitszn.com/faucets.html
-
-https://www.allthatnode.com/faucet/ethereum.dsrv
 
 https://faucetlink.to/goerli
 
@@ -308,11 +288,7 @@ https://volta-faucet.energyweb.org/
 https://faucet.goerli.starknet.io
 
 ## Bitcoin
-https://coinfaucet.eu/en/btc-testnet/
-
-https://testnet-faucet.com/btc-testnet/
-
-https://bitcoinfaucet.uo1.net/
+https://faucet-list.com/testnet-faucets/bitcoin
 
 ## edeXa
 https://faucet.edexa.com/
@@ -340,34 +316,3 @@ https://artio.faucet.berachain.com/
 https://www.gas.zip/faucet/plasma
 
 
-
-# Follow Us on Social Media
-
-## Social Media
-[Email](mailto:web3idn.crypto@mail3.me)
-
-[Newsletters](https://web3idn.substack.com/)
-
-[Website](https://www.web30.my.id/)
-
-[Medium](https://medium.com/@web3id)
-
-[Github](https://github.com/Web3ID)
-
-[Dev.To](https://dev.to/web3id)
-
-[Facebook](https://web.facebook.com/web3id)
-
-[Group Facebook](https://web.facebook.com/groups/web3id/)
-
-[Twitter](https://twitter.com/Web3IDN)
-
-[Instagram](https://www.instagram.com/web3id/)
-
-[LinkedIn](https://www.linkedin.com/company/web3id/)
-
-[Channel Telegram](https://t.me/Web3IDN)
-
-[Group Telegram](https://t.me/Web3IDN_Chat)
-
-[Quora](https://web3id.quora.com/)
