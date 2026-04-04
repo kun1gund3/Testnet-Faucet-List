@@ -2,10 +2,9 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
 
-fork from [@arddluma]
 
 
-sort from @kun1gund337
+
 
 Testnet Faucets for: Ethereum, Base, Goerli, Polygon, FantomTest, Aurora, BSC, Algo, Tezos, Bitcoin etc. | EVM and other Blockchains.
 
