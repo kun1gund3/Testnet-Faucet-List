@@ -264,6 +264,7 @@ https://faucet-list.com/testnet-faucets/bitcoin
 
 https://open-api.unisat.io/swagger.html
 
+https://testnetbtc.com/
 
 
 ## edeXa
