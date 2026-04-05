@@ -67,9 +67,9 @@ Sepolia Tesnet CDP
 https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8PvpPNkP
 
 For Building on Base
-https://docs.cdp.coinbase.com/get-started/quickstart 
 
 https://portal.cdp.coinbase.com/products/faucet?projectId=96a5bc41-7eb9-45c1-9b6c-7ef7525403ef&token=ETH&network=base-sepolia
+
 
 https://codesandbox.io
 
@@ -274,7 +274,7 @@ https://faucet-list.com/testnet-faucets/bitcoin
 https://portal.zksync.io/
 
 ## Shardeum
-https://faucet.liberty10.shardeum.org/
+
 
 ## Blast
 https://faucet.quicknode.com/blast/sepolia
