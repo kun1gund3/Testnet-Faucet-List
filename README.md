@@ -2,12 +2,10 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
 
- @kun1gund3
-
 
 
 Testnet Faucets for: Ethereum, Base, Goerli, Polygon, FantomTest, Aurora, BSC, Algo, Tezos, Bitcoin etc. | EVM and other Blockchains.
-
+ @kun1gund3
 
 ## Networks
 
@@ -263,6 +261,10 @@ https://volta-faucet.energyweb.org/
 
 ## Bitcoin
 https://faucet-list.com/testnet-faucets/bitcoin
+
+https://open-api.unisat.io/swagger.html
+
+
 
 ## edeXa
 
