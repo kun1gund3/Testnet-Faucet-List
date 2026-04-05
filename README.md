@@ -69,6 +69,8 @@ https://api.developer.coinbase.com/rpc/v1/base-sepolia/DPEeoll0JKA6Af9uBqR9unxc8
 For Building on Base
 https://docs.cdp.coinbase.com/get-started/quickstart 
 
+https://portal.cdp.coinbase.com/products/faucet?projectId=96a5bc41-7eb9-45c1-9b6c-7ef7525403ef&token=ETH&network=base-sepolia
+
 https://codesandbox.io
 
 
