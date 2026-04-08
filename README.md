@@ -92,7 +92,6 @@ https://www.allthatnode.com/faucet/ethereum.dsrv
 ### Ropsten
 
 ### Goerli
-https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
 
 https://faucet.quicknode.com/ethereum/goerli
 
@@ -158,8 +157,6 @@ https://faucet.polygon.technology/
 ## Fantom
 
 ### FantomTestnet
-
-https://discord.etherspot.io (#faucet channel) - drops 10 FTM
 
 https://faucet.fantom.network/
 
