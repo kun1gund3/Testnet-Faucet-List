@@ -41,9 +41,11 @@ Testnet Faucets for: Ethereum, Base, Goerli, Polygon, FantomTest, Aurora, BSC, A
 - [Plasma](#plasma)
 
 
+### Pepeblocks
+https://pepeblocks.com/faucet
+
 
 ### Bitcoin Testnet
-
 Bitcoin Testnet Faucet
 
 (https://faucet-list.com/testnet-faucets/bitcoin)
