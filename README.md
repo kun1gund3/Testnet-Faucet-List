@@ -6,7 +6,7 @@
 
 Testnet Faucets for: Ethereum, Base, Goerli, Polygon, FantomTest, Aurora, BSC, Algo, Tezos, Bitcoin etc. | EVM and other Blockchains.
 
- @kun1gund3
+
 
 
 ## Networks
@@ -284,4 +284,4 @@ https://artio.faucet.berachain.com/
 ## Plasma
 https://www.gas.zip/
 
-
+ @kun1gund3
