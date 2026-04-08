@@ -235,16 +235,9 @@ https://faucet.pops.one/
 
 ### Fuse SparkNet
 
-
-https://discord.etherspot.io (#faucet channel) - drops 20 SPARK
-
-https://get.fusespark.io/
-
 ## Moonbeam
 
 ### Moonbase Alpha
-
-https://discord.etherspot.io (#faucet channel) - drops 1 DEV
 
 ## Avalanche
 
